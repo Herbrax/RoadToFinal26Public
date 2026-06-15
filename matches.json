@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T19:52:52.281Z",
+  "fetchedAt": "2026-06-15T19:39:24.867Z",
   "matches": {
     "A": {
       "0-1": {
@@ -129,6 +129,38 @@
         "status": "TIMED"
       }
     },
+    "E": {
+      "0-1": {
+        "h": 7,
+        "a": 1,
+        "status": "FINISHED"
+      },
+      "2-3": {
+        "h": 1,
+        "a": 0,
+        "status": "FINISHED"
+      },
+      "0-2": {
+        "h": null,
+        "a": null,
+        "status": "TIMED"
+      },
+      "1-3": {
+        "h": null,
+        "a": null,
+        "status": "TIMED"
+      },
+      "0-3": {
+        "h": null,
+        "a": null,
+        "status": "TIMED"
+      },
+      "1-2": {
+        "h": null,
+        "a": null,
+        "status": "TIMED"
+      }
+    },
     "F": {
       "0-1": {
         "h": 2,
@@ -156,23 +188,6 @@
         "status": "TIMED"
       },
       "1-2": {
-        "h": null,
-        "a": null,
-        "status": "TIMED"
-      }
-    },
-    "E": {
-      "2-3": {
-        "h": 1,
-        "a": 0,
-        "status": "FINISHED"
-      },
-      "0-2": {
-        "h": null,
-        "a": null,
-        "status": "TIMED"
-      },
-      "0-3": {
         "h": null,
         "a": null,
         "status": "TIMED"
