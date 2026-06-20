@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T18:35:24.829Z",
+  "fetchedAt": "2026-06-20T18:40:24.925Z",
   "matches": {
     "A": {
       "0-1": {
@@ -236,11 +236,29 @@
         "status": "FINISHED",
         "utcDate": "2026-06-15T16:00:00Z"
       },
+      "2-3": {
+        "h": 1,
+        "a": 1,
+        "status": "FINISHED",
+        "utcDate": "2026-06-15T22:00:00Z"
+      },
       "0-2": {
         "h": null,
         "a": null,
         "status": "TIMED",
         "utcDate": "2026-06-21T16:00:00Z"
+      },
+      "1-3": {
+        "h": null,
+        "a": null,
+        "status": "TIMED",
+        "utcDate": "2026-06-21T22:00:00Z"
+      },
+      "0-3": {
+        "h": null,
+        "a": null,
+        "status": "TIMED",
+        "utcDate": "2026-06-27T00:00:00Z"
       },
       "1-2": {
         "h": null,
