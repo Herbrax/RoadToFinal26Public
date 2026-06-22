@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-21T23:58:57.543Z",
+  "fetchedAt": "2026-06-22T00:00:14.253Z",
   "matches": {
     "A": {
       "0-1": {
@@ -439,5 +439,79 @@
         "utcDate": "2026-06-27T21:00:00Z"
       }
     }
+  },
+  "standings": {
+    "A": [
+      "MEX",
+      "KOR",
+      "CZE",
+      "RSA"
+    ],
+    "B": [
+      "CAN",
+      "SUI",
+      "BIH",
+      "QAT"
+    ],
+    "C": [
+      "BRA",
+      "MAR",
+      "SCO",
+      "HAI"
+    ],
+    "D": [
+      "USA",
+      "AUS",
+      "PAR",
+      "TUR"
+    ],
+    "E": [
+      "GER",
+      "CIV",
+      "ECU",
+      "CUW"
+    ],
+    "F": [
+      "NED",
+      "JPN",
+      "SWE",
+      "TUN"
+    ],
+    "G": [
+      "IRN",
+      "BEL",
+      "NZL",
+      "EGY"
+    ],
+    "H": [
+      "ESP",
+      "URU",
+      "CPV",
+      "KSA"
+    ],
+    "I": [
+      "NOR",
+      "FRA",
+      "SEN",
+      "IRQ"
+    ],
+    "J": [
+      "ARG",
+      "AUT",
+      "JOR",
+      "ALG"
+    ],
+    "K": [
+      "COL",
+      "COD",
+      "POR",
+      "UZB"
+    ],
+    "L": [
+      "ENG",
+      "GHA",
+      "PAN",
+      "CRO"
+    ]
   }
 }
