@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T20:15:56.085Z",
+  "fetchedAt": "2026-06-26T20:20:56.009Z",
   "matches": {
     "A": {
       "0-1": {
@@ -27,15 +27,15 @@
         "utcDate": "2026-06-19T01:00:00Z"
       },
       "0-3": {
-        "h": null,
-        "a": null,
-        "status": "TIMED",
+        "h": 3,
+        "a": 0,
+        "status": "FINISHED",
         "utcDate": "2026-06-25T01:00:00Z"
       },
       "1-2": {
-        "h": null,
-        "a": null,
-        "status": "TIMED",
+        "h": 1,
+        "a": 0,
+        "status": "FINISHED",
         "utcDate": "2026-06-25T01:00:00Z"
       }
     },
@@ -179,15 +179,15 @@
         "utcDate": "2026-06-21T00:00:00Z"
       },
       "0-3": {
-        "h": null,
-        "a": null,
-        "status": "TIMED",
+        "h": 1,
+        "a": 2,
+        "status": "FINISHED",
         "utcDate": "2026-06-25T20:00:00Z"
       },
       "1-2": {
-        "h": null,
-        "a": null,
-        "status": "TIMED",
+        "h": 0,
+        "a": 2,
+        "status": "FINISHED",
         "utcDate": "2026-06-25T20:00:00Z"
       }
     },
@@ -217,15 +217,15 @@
         "utcDate": "2026-06-21T04:00:00Z"
       },
       "0-3": {
-        "h": null,
-        "a": null,
-        "status": "TIMED",
+        "h": 3,
+        "a": 1,
+        "status": "FINISHED",
         "utcDate": "2026-06-25T23:00:00Z"
       },
       "1-2": {
-        "h": null,
-        "a": null,
-        "status": "TIMED",
+        "h": 1,
+        "a": 1,
+        "status": "FINISHED",
         "utcDate": "2026-06-25T23:00:00Z"
       }
     },
@@ -321,7 +321,7 @@
       "1-2": {
         "h": 1,
         "a": 0,
-        "status": "PAUSED",
+        "status": "IN_PLAY",
         "utcDate": "2026-06-26T19:00:00Z"
       }
     },
