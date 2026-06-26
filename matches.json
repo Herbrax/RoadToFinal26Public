@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T03:53:00.609Z",
+  "fetchedAt": "2026-06-26T03:55:55.982Z",
   "matches": {
     "A": {
       "0-1": {
@@ -236,11 +236,29 @@
         "status": "FINISHED",
         "utcDate": "2026-06-15T16:00:00Z"
       },
+      "2-3": {
+        "h": 1,
+        "a": 1,
+        "status": "FINISHED",
+        "utcDate": "2026-06-15T22:00:00Z"
+      },
       "0-2": {
         "h": 4,
         "a": 0,
         "status": "FINISHED",
         "utcDate": "2026-06-21T16:00:00Z"
+      },
+      "1-3": {
+        "h": 2,
+        "a": 2,
+        "status": "FINISHED",
+        "utcDate": "2026-06-21T22:00:00Z"
+      },
+      "0-3": {
+        "h": null,
+        "a": null,
+        "status": "TIMED",
+        "utcDate": "2026-06-27T00:00:00Z"
       },
       "1-2": {
         "h": null,
@@ -439,5 +457,79 @@
         "utcDate": "2026-06-27T21:00:00Z"
       }
     }
+  },
+  "standings": {
+    "A": [
+      "MEX",
+      "RSA",
+      "KOR",
+      "CZE"
+    ],
+    "B": [
+      "SUI",
+      "CAN",
+      "BIH",
+      "QAT"
+    ],
+    "C": [
+      "BRA",
+      "MAR",
+      "SCO",
+      "HAI"
+    ],
+    "D": [
+      "USA",
+      "AUS",
+      "PAR",
+      "TUR"
+    ],
+    "E": [
+      "GER",
+      "CIV",
+      "ECU",
+      "CUW"
+    ],
+    "F": [
+      "NED",
+      "JPN",
+      "SWE",
+      "TUN"
+    ],
+    "G": [
+      "EGY",
+      "IRN",
+      "BEL",
+      "NZL"
+    ],
+    "H": [
+      "ESP",
+      "URU",
+      "CPV",
+      "KSA"
+    ],
+    "I": [
+      "FRA",
+      "NOR",
+      "SEN",
+      "IRQ"
+    ],
+    "J": [
+      "ARG",
+      "AUT",
+      "ALG",
+      "JOR"
+    ],
+    "K": [
+      "COL",
+      "POR",
+      "COD",
+      "UZB"
+    ],
+    "L": [
+      "ENG",
+      "GHA",
+      "CRO",
+      "PAN"
+    ]
   }
 }
