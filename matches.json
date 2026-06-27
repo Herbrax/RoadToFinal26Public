@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T00:10:56.041Z",
+  "fetchedAt": "2026-06-27T00:30:56.035Z",
   "matches": {
     "A": {
       "0-1": {
@@ -27,15 +27,15 @@
         "utcDate": "2026-06-19T01:00:00Z"
       },
       "0-3": {
-        "h": 3,
-        "a": 0,
-        "status": "FINISHED",
+        "h": null,
+        "a": null,
+        "status": "TIMED",
         "utcDate": "2026-06-25T01:00:00Z"
       },
       "1-2": {
-        "h": 1,
-        "a": 0,
-        "status": "FINISHED",
+        "h": null,
+        "a": null,
+        "status": "TIMED",
         "utcDate": "2026-06-25T01:00:00Z"
       }
     },
@@ -179,15 +179,15 @@
         "utcDate": "2026-06-21T00:00:00Z"
       },
       "0-3": {
-        "h": 1,
-        "a": 2,
-        "status": "FINISHED",
+        "h": null,
+        "a": null,
+        "status": "TIMED",
         "utcDate": "2026-06-25T20:00:00Z"
       },
       "1-2": {
-        "h": 0,
-        "a": 2,
-        "status": "FINISHED",
+        "h": null,
+        "a": null,
+        "status": "TIMED",
         "utcDate": "2026-06-25T20:00:00Z"
       }
     },
@@ -217,15 +217,15 @@
         "utcDate": "2026-06-21T04:00:00Z"
       },
       "0-3": {
-        "h": 3,
-        "a": 1,
-        "status": "FINISHED",
+        "h": null,
+        "a": null,
+        "status": "TIMED",
         "utcDate": "2026-06-25T23:00:00Z"
       },
       "1-2": {
-        "h": 1,
-        "a": 1,
-        "status": "FINISHED",
+        "h": null,
+        "a": null,
+        "status": "TIMED",
         "utcDate": "2026-06-25T23:00:00Z"
       }
     },
