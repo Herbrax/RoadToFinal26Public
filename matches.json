@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T23:35:56.084Z",
+  "fetchedAt": "2026-06-27T23:40:16.126Z",
   "matches": {
     "A": {
       "0-1": {
@@ -389,15 +389,15 @@
         "utcDate": "2026-06-24T02:00:00Z"
       },
       "0-3": {
-        "h": 0,
-        "a": 0,
-        "status": "IN_PLAY",
+        "h": null,
+        "a": null,
+        "status": "LIVE",
         "utcDate": "2026-06-27T23:30:00Z"
       },
       "1-2": {
-        "h": 0,
-        "a": 0,
-        "status": "IN_PLAY",
+        "h": null,
+        "a": null,
+        "status": "LIVE",
         "utcDate": "2026-06-27T23:30:00Z"
       }
     },
@@ -439,79 +439,5 @@
         "utcDate": "2026-06-27T21:00:00Z"
       }
     }
-  },
-  "standings": {
-    "A": [
-      "MEX",
-      "RSA",
-      "KOR",
-      "CZE"
-    ],
-    "B": [
-      "SUI",
-      "CAN",
-      "BIH",
-      "QAT"
-    ],
-    "C": [
-      "BRA",
-      "MAR",
-      "SCO",
-      "HAI"
-    ],
-    "D": [
-      "USA",
-      "AUS",
-      "PAR",
-      "TUR"
-    ],
-    "E": [
-      "GER",
-      "CIV",
-      "ECU",
-      "CUW"
-    ],
-    "F": [
-      "NED",
-      "JPN",
-      "SWE",
-      "TUN"
-    ],
-    "G": [
-      "BEL",
-      "EGY",
-      "IRN",
-      "NZL"
-    ],
-    "H": [
-      "ESP",
-      "CPV",
-      "URU",
-      "KSA"
-    ],
-    "I": [
-      "FRA",
-      "NOR",
-      "SEN",
-      "IRQ"
-    ],
-    "J": [
-      "ARG",
-      "AUT",
-      "ALG",
-      "JOR"
-    ],
-    "K": [
-      "COL",
-      "POR",
-      "COD",
-      "UZB"
-    ],
-    "L": [
-      "ENG",
-      "CRO",
-      "GHA",
-      "PAN"
-    ]
   }
 }
