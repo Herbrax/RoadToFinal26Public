@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T20:45:48.160Z",
+  "fetchedAt": "2026-06-28T21:00:48.243Z",
   "matches": {
     "A": {
       "0-1": {
@@ -523,7 +523,7 @@
         "homeName": "South Africa",
         "awayName": "Canada",
         "h": 0,
-        "a": 0,
+        "a": 1,
         "hp": null,
         "ap": null,
         "status": "PAUSED",
