@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T02:50:56.040Z",
+  "fetchedAt": "2026-06-28T02:55:56.018Z",
   "matches": {
     "A": {
       "0-1": {
@@ -353,13 +353,13 @@
       "0-3": {
         "h": 2,
         "a": 0,
-        "status": "IN_PLAY",
+        "status": "PAUSED",
         "utcDate": "2026-06-28T02:00:00Z"
       },
       "1-2": {
-        "h": null,
-        "a": null,
-        "status": "LIVE",
+        "h": 1,
+        "a": 1,
+        "status": "PAUSED",
         "utcDate": "2026-06-28T02:00:00Z"
       }
     },
