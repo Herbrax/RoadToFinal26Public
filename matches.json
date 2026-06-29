@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T16:00:48.148Z",
+  "fetchedAt": "2026-06-29T17:05:48.083Z",
   "matches": {
     "A": {
       "0-1": {
@@ -535,11 +535,11 @@
         "away": "JPN",
         "homeName": "Brazil",
         "awayName": "Japan",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "TIMED",
+        "status": "IN_PLAY",
         "utcDate": "2026-06-29T17:00:00Z"
       },
       {
