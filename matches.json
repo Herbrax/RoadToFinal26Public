@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T23:30:21.192Z",
+  "fetchedAt": "2026-06-29T23:35:21.233Z",
   "matches": {
     "A": {
       "0-1": {
@@ -548,11 +548,11 @@
         "away": "PAR",
         "homeName": "Germany",
         "awayName": "Paraguay",
-        "h": 4,
-        "a": 5,
-        "hp": 4,
-        "ap": 4,
-        "status": "IN_PLAY",
+        "h": 5,
+        "a": 6,
+        "hp": 5,
+        "ap": 5,
+        "status": "FINISHED",
         "utcDate": "2026-06-29T20:30:00Z"
       },
       {
