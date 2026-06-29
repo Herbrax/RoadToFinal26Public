@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T18:15:48.105Z",
+  "fetchedAt": "2026-06-29T18:25:48.180Z",
   "matches": {
     "A": {
       "0-1": {
@@ -535,7 +535,7 @@
         "away": "JPN",
         "homeName": "Brazil",
         "awayName": "Japan",
-        "h": 0,
+        "h": 1,
         "a": 1,
         "hp": null,
         "ap": null,
