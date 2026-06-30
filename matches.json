@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T21:05:21.288Z",
+  "fetchedAt": "2026-06-30T21:10:21.248Z",
   "matches": {
     "A": {
       "0-1": {
@@ -587,11 +587,11 @@
         "away": "SWE",
         "homeName": "France",
         "awayName": "Sweden",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "LIVE",
+        "status": "IN_PLAY",
         "utcDate": "2026-06-30T21:00:00Z"
       },
       {
