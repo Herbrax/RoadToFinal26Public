@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T01:05:21.196Z",
+  "fetchedAt": "2026-06-30T01:10:21.202Z",
   "matches": {
     "A": {
       "0-1": {
@@ -561,11 +561,11 @@
         "away": "MAR",
         "homeName": "Netherlands",
         "awayName": "Morocco",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "LIVE",
+        "status": "IN_PLAY",
         "utcDate": "2026-06-30T01:00:00Z"
       },
       {
