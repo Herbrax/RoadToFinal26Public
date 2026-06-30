@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T06:10:21.218Z",
+  "fetchedAt": "2026-06-30T06:15:21.342Z",
   "matches": {
     "A": {
       "0-1": {
@@ -550,7 +550,7 @@
         "awayName": "Paraguay",
         "h": 4,
         "a": 5,
-        "hp": 4,
+        "hp": 3,
         "ap": 4,
         "status": "FINISHED",
         "utcDate": "2026-06-29T20:30:00Z"
@@ -563,7 +563,7 @@
         "awayName": "Morocco",
         "h": 3,
         "a": 4,
-        "hp": 3,
+        "hp": 2,
         "ap": 3,
         "status": "FINISHED",
         "utcDate": "2026-06-30T01:00:00Z"
@@ -729,9 +729,9 @@
       {
         "id": 537376,
         "home": "CAN",
-        "away": null,
+        "away": "MAR",
         "homeName": "Canada",
-        "awayName": null,
+        "awayName": "Morocco",
         "h": null,
         "a": null,
         "hp": null,
@@ -741,9 +741,9 @@
       },
       {
         "id": 537375,
-        "home": null,
+        "home": "PAR",
         "away": null,
-        "homeName": null,
+        "homeName": "Paraguay",
         "awayName": null,
         "h": null,
         "a": null,
@@ -754,9 +754,9 @@
       },
       {
         "id": 537377,
-        "home": null,
+        "home": "BRA",
         "away": null,
-        "homeName": null,
+        "homeName": "Brazil",
         "awayName": null,
         "h": null,
         "a": null,
