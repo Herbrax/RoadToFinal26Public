@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T05:35:21.231Z",
+  "fetchedAt": "2026-06-30T05:40:21.189Z",
   "matches": {
     "A": {
       "0-1": {
@@ -561,7 +561,7 @@
         "away": "MAR",
         "homeName": "Netherlands",
         "awayName": "Morocco",
-        "h": 3,
+        "h": 4,
         "a": 4,
         "hp": 3,
         "ap": 3,
