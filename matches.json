@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T03:35:21.180Z",
+  "fetchedAt": "2026-07-01T03:40:21.406Z",
   "matches": {
     "A": {
       "0-1": {
@@ -574,11 +574,11 @@
         "away": "NOR",
         "homeName": "Ivory Coast",
         "awayName": "Norway",
-        "h": null,
-        "a": null,
+        "h": 1,
+        "a": 2,
         "hp": null,
         "ap": null,
-        "status": "TIMED",
+        "status": "FINISHED",
         "utcDate": "2026-06-30T17:00:00Z"
       },
       {
