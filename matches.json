@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T23:50:21.261Z",
+  "fetchedAt": "2026-07-01T01:10:21.213Z",
   "matches": {
     "A": {
       "0-1": {
@@ -600,11 +600,11 @@
         "away": "ECU",
         "homeName": "Mexico",
         "awayName": "Ecuador",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "TIMED",
+        "status": "IN_PLAY",
         "utcDate": "2026-07-01T01:00:00Z"
       },
       {
