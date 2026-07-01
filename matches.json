@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T20:10:21.289Z",
+  "fetchedAt": "2026-07-01T20:30:21.243Z",
   "matches": {
     "A": {
       "0-1": {
@@ -627,7 +627,7 @@
         "homeName": "Belgium",
         "awayName": "Senegal",
         "h": 0,
-        "a": 0,
+        "a": 1,
         "hp": null,
         "ap": null,
         "status": "IN_PLAY",
