@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T06:00:21.267Z",
+  "fetchedAt": "2026-07-01T06:10:21.189Z",
   "matches": {
     "A": {
       "0-1": {
@@ -742,9 +742,9 @@
       {
         "id": 537375,
         "home": "PAR",
-        "away": null,
+        "away": "FRA",
         "homeName": "Paraguay",
-        "awayName": null,
+        "awayName": "France",
         "h": null,
         "a": null,
         "hp": null,
@@ -755,9 +755,9 @@
       {
         "id": 537377,
         "home": "BRA",
-        "away": null,
+        "away": "NOR",
         "homeName": "Brazil",
-        "awayName": null,
+        "awayName": "Norway",
         "h": null,
         "a": null,
         "hp": null,
