@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-02T22:40:21.264Z",
+  "fetchedAt": "2026-07-02T23:05:21.225Z",
   "matches": {
     "A": {
       "0-1": {
@@ -669,7 +669,7 @@
         "a": null,
         "hp": null,
         "ap": null,
-        "status": "TIMED",
+        "status": "LIVE",
         "utcDate": "2026-07-02T23:00:00Z"
       },
       {
