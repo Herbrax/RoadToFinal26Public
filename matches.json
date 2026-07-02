@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-02T00:05:21.226Z",
+  "fetchedAt": "2026-07-02T00:10:21.231Z",
   "matches": {
     "A": {
       "0-1": {
@@ -639,11 +639,11 @@
         "away": "BIH",
         "homeName": "United States",
         "awayName": "Bosnia-Herzegovina",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "LIVE",
+        "status": "IN_PLAY",
         "utcDate": "2026-07-02T00:00:00Z"
       },
       {
