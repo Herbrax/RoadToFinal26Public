@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-02T03:45:21.156Z",
+  "fetchedAt": "2026-07-02T06:05:21.234Z",
   "matches": {
     "A": {
       "0-1": {
@@ -767,10 +767,10 @@
       },
       {
         "id": 537378,
-        "home": null,
-        "away": null,
-        "homeName": null,
-        "awayName": null,
+        "home": "MEX",
+        "away": "ENG",
+        "homeName": "Mexico",
+        "awayName": "England",
         "h": null,
         "a": null,
         "hp": null,
@@ -793,10 +793,10 @@
       },
       {
         "id": 537380,
-        "home": null,
-        "away": null,
-        "homeName": null,
-        "awayName": null,
+        "home": "USA",
+        "away": "BEL",
+        "homeName": "United States",
+        "awayName": "Belgium",
         "h": null,
         "a": null,
         "hp": null,
