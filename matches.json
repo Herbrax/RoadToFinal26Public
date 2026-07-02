@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-02T23:05:21.225Z",
+  "fetchedAt": "2026-07-02T23:10:21.265Z",
   "matches": {
     "A": {
       "0-1": {
@@ -665,11 +665,11 @@
         "away": "CRO",
         "homeName": "Portugal",
         "awayName": "Croatia",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "LIVE",
+        "status": "IN_PLAY",
         "utcDate": "2026-07-02T23:00:00Z"
       },
       {
