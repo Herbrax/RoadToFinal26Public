@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-02T19:00:22.815Z",
+  "fetchedAt": "2026-07-02T19:55:21.241Z",
   "matches": {
     "A": {
       "0-1": {
@@ -652,11 +652,11 @@
         "away": "AUT",
         "homeName": "Spain",
         "awayName": "Austria",
-        "h": null,
-        "a": null,
+        "h": 1,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "TIMED",
+        "status": "PAUSED",
         "utcDate": "2026-07-02T19:00:00Z"
       },
       {
