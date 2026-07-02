@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-02T01:40:21.395Z",
+  "fetchedAt": "2026-07-02T01:55:21.257Z",
   "matches": {
     "A": {
       "0-1": {
@@ -639,7 +639,7 @@
         "away": "BIH",
         "homeName": "United States",
         "awayName": "Bosnia-Herzegovina",
-        "h": 1,
+        "h": 2,
         "a": 0,
         "hp": null,
         "ap": null,
