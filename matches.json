@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T18:10:34.543Z",
+  "fetchedAt": "2026-07-03T18:20:34.539Z",
   "matches": {
     "A": {
       "0-1": {
@@ -692,7 +692,7 @@
         "homeName": "Australia",
         "awayName": "Egypt",
         "h": 0,
-        "a": 0,
+        "a": 1,
         "hp": null,
         "ap": null,
         "status": "IN_PLAY",
