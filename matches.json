@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T03:55:21.165Z",
+  "fetchedAt": "2026-07-03T04:10:21.233Z",
   "matches": {
     "A": {
       "0-1": {
@@ -678,11 +678,11 @@
         "away": "ALG",
         "homeName": "Switzerland",
         "awayName": "Algeria",
-        "h": 1,
-        "a": 0,
+        "h": null,
+        "a": null,
         "hp": null,
         "ap": null,
-        "status": "PAUSED",
+        "status": "LIVE",
         "utcDate": "2026-07-03T03:00:00Z"
       },
       {
