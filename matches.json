@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T20:25:34.551Z",
+  "fetchedAt": "2026-07-03T20:45:34.569Z",
   "matches": {
     "A": {
       "0-1": {
@@ -693,8 +693,8 @@
         "awayName": "Egypt",
         "h": 1,
         "a": 1,
-        "hp": null,
-        "ap": null,
+        "hp": 0,
+        "ap": 0,
         "status": "PAUSED",
         "utcDate": "2026-07-03T18:00:00Z"
       },
