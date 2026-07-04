@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T03:40:34.537Z",
+  "fetchedAt": "2026-07-04T03:45:34.503Z",
   "matches": {
     "A": {
       "0-1": {
@@ -717,7 +717,7 @@
         "away": "GHA",
         "homeName": "Colombia",
         "awayName": "Ghana",
-        "h": 2,
+        "h": 1,
         "a": 0,
         "hp": null,
         "ap": null,
