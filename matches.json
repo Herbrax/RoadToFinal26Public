@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T18:55:09.973Z",
+  "fetchedAt": "2026-07-04T19:10:07.985Z",
   "matches": {
     "A": {
       "0-1": {
@@ -733,10 +733,10 @@
         "homeName": "Canada",
         "awayName": "Morocco",
         "h": 0,
-        "a": 2,
+        "a": 3,
         "hp": null,
         "ap": null,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "utcDate": "2026-07-04T17:00:00Z"
       },
       {
