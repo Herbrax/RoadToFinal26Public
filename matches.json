@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T00:30:34.520Z",
+  "fetchedAt": "2026-07-04T00:40:34.612Z",
   "matches": {
     "A": {
       "0-1": {
@@ -704,7 +704,7 @@
         "away": "CPV",
         "homeName": "Argentina",
         "awayName": "Cape Verde Islands",
-        "h": 2,
+        "h": 3,
         "a": 2,
         "hp": null,
         "ap": null,
