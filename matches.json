@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T22:35:08.903Z",
+  "fetchedAt": "2026-07-04T22:40:10.402Z",
   "matches": {
     "A": {
       "0-1": {
@@ -746,7 +746,7 @@
         "homeName": "Paraguay",
         "awayName": "France",
         "h": 0,
-        "a": 0,
+        "a": 1,
         "hp": null,
         "ap": null,
         "status": "IN_PLAY",
