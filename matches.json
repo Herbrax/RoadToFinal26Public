@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T05:45:07.425Z",
+  "fetchedAt": "2026-07-05T06:10:07.537Z",
   "matches": {
     "A": {
       "0-1": {
@@ -745,11 +745,11 @@
         "away": "FRA",
         "homeName": "Paraguay",
         "awayName": "France",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 1,
         "hp": null,
         "ap": null,
-        "status": "2026-07-04 21:00:00Z",
+        "status": "FINISHED",
         "utcDate": "2026-07-04T21:00:00Z"
       },
       {
@@ -762,7 +762,7 @@
         "a": null,
         "hp": null,
         "ap": null,
-        "status": "2026-07-06 20:00:00Z",
+        "status": "TIMED",
         "utcDate": "2026-07-05T20:00:00Z"
       },
       {
@@ -834,10 +834,10 @@
     "QUARTER_FINALS": [
       {
         "id": 537383,
-        "home": null,
-        "away": null,
-        "homeName": null,
-        "awayName": null,
+        "home": "FRA",
+        "away": "MAR",
+        "homeName": "France",
+        "awayName": "Morocco",
         "h": null,
         "a": null,
         "hp": null,
