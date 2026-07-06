@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T19:05:05.828Z",
+  "fetchedAt": "2026-07-06T19:10:07.348Z",
   "matches": {
     "A": {
       "0-1": {
@@ -784,11 +784,11 @@
         "away": "ESP",
         "homeName": "Portugal",
         "awayName": "Spain",
-        "h": 0,
-        "a": 0,
+        "h": null,
+        "a": null,
         "hp": null,
         "ap": null,
-        "status": "IN_PLAY",
+        "status": "LIVE",
         "utcDate": "2026-07-06T19:00:00Z"
       },
       {
