@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T03:45:34.646Z",
+  "fetchedAt": "2026-07-06T06:10:34.704Z",
   "matches": {
     "A": {
       "0-1": {
@@ -860,10 +860,10 @@
       },
       {
         "id": 537385,
-        "home": null,
-        "away": null,
-        "homeName": null,
-        "awayName": null,
+        "home": "NOR",
+        "away": "ENG",
+        "homeName": "Norway",
+        "awayName": "England",
         "h": null,
         "a": null,
         "hp": null,
