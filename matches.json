@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T01:20:34.778Z",
+  "fetchedAt": "2026-07-06T01:45:34.699Z",
   "matches": {
     "A": {
       "0-1": {
@@ -772,7 +772,7 @@
         "homeName": "Mexico",
         "awayName": "England",
         "h": 0,
-        "a": 0,
+        "a": 2,
         "hp": null,
         "ap": null,
         "status": "IN_PLAY",
