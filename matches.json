@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T01:30:07.496Z",
+  "fetchedAt": "2026-07-07T02:05:05.057Z",
   "matches": {
     "A": {
       "0-1": {
@@ -798,10 +798,10 @@
         "homeName": "United States",
         "awayName": "Belgium",
         "h": 1,
-        "a": 3,
+        "a": 4,
         "hp": null,
         "ap": null,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "utcDate": "2026-07-07T00:00:00Z"
       },
       {
