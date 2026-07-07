@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T22:50:05.246Z",
+  "fetchedAt": "2026-07-07T22:55:04.134Z",
   "matches": {
     "A": {
       "0-1": {
@@ -823,10 +823,10 @@
         "away": "COL",
         "homeName": "Switzerland",
         "awayName": "Colombia",
-        "h": 1,
-        "a": 1,
-        "hp": 1,
-        "ap": 1,
+        "h": 3,
+        "a": 2,
+        "hp": 2,
+        "ap": 2,
         "status": "FINISHED",
         "utcDate": "2026-07-07T20:00:00Z"
       }
