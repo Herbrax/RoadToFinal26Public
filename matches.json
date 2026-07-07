@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T01:00:11.918Z",
+  "fetchedAt": "2026-07-07T01:15:08.604Z",
   "matches": {
     "A": {
       "0-1": {
@@ -797,11 +797,11 @@
         "away": "BEL",
         "homeName": "United States",
         "awayName": "Belgium",
-        "h": 1,
-        "a": 2,
+        "h": null,
+        "a": null,
         "hp": null,
         "ap": null,
-        "status": "PAUSED",
+        "status": "LIVE",
         "utcDate": "2026-07-07T00:00:00Z"
       },
       {
