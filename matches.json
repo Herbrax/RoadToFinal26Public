@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-09T21:15:26.453Z",
+  "fetchedAt": "2026-07-09T21:30:26.492Z",
   "matches": {
     "A": {
       "0-1": {
@@ -838,7 +838,7 @@
         "away": "MAR",
         "homeName": "France",
         "awayName": "Morocco",
-        "h": 0,
+        "h": 1,
         "a": 0,
         "hp": null,
         "ap": null,
