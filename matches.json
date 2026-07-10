@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T03:30:26.456Z",
+  "fetchedAt": "2026-07-10T06:15:07.683Z",
   "matches": {
     "A": {
       "0-1": {
@@ -888,9 +888,9 @@
     "SEMI_FINALS": [
       {
         "id": 537387,
-        "home": null,
+        "home": "FRA",
         "away": null,
-        "homeName": null,
+        "homeName": "France",
         "awayName": null,
         "h": null,
         "a": null,
