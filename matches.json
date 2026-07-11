@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-11T22:15:52.339Z",
+  "fetchedAt": "2026-07-11T22:25:52.256Z",
   "matches": {
     "A": {
       "0-1": {
@@ -864,7 +864,7 @@
         "away": "ENG",
         "homeName": "Norway",
         "awayName": "England",
-        "h": 1,
+        "h": 2,
         "a": 1,
         "hp": null,
         "ap": null,
