@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-11T05:30:46.234Z",
+  "fetchedAt": "2026-07-11T06:10:46.268Z",
   "matches": {
     "A": {
       "0-1": {
@@ -889,9 +889,9 @@
       {
         "id": 537387,
         "home": "FRA",
-        "away": null,
+        "away": "ESP",
         "homeName": "France",
-        "awayName": null,
+        "awayName": "Spain",
         "h": null,
         "a": null,
         "hp": null,
