@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T01:05:52.209Z",
+  "fetchedAt": "2026-07-12T01:20:52.190Z",
   "matches": {
     "A": {
       "0-1": {
@@ -877,7 +877,7 @@
         "away": "SUI",
         "homeName": "Argentina",
         "awayName": "Switzerland",
-        "h": 0,
+        "h": 1,
         "a": 0,
         "hp": null,
         "ap": null,
