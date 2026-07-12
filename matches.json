@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T00:00:57.765Z",
+  "fetchedAt": "2026-07-12T01:05:52.209Z",
   "matches": {
     "A": {
       "0-1": {
@@ -877,11 +877,11 @@
         "away": "SUI",
         "homeName": "Argentina",
         "awayName": "Switzerland",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "TIMED",
+        "status": "IN_PLAY",
         "utcDate": "2026-07-12T01:00:00Z"
       }
     ],
