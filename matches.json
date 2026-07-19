@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T19:50:11.072Z",
+  "fetchedAt": "2026-07-19T20:05:10.948Z",
   "matches": {
     "A": {
       "0-1": {
@@ -935,11 +935,11 @@
         "away": "ARG",
         "homeName": "Spain",
         "awayName": "Argentina",
-        "h": null,
-        "a": null,
+        "h": 0,
+        "a": 0,
         "hp": null,
         "ap": null,
-        "status": "LIVE",
+        "status": "PAUSED",
         "utcDate": "2026-07-19T19:00:00Z"
       }
     ]
